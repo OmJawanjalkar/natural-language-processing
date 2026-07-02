@@ -1,3 +1,6 @@
 ipykernel
 nltk
 spacy
+pandas
+numpy
+scikit-learn
